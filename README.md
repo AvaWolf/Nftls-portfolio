@@ -37,6 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ## Design
-![alt text](/2024-03-27 20.04.48 localhost 3670401d34cc.png)
+![alt text](2024-03-27 20.04.48 localhost 3670401d34cc.png)
 
 
